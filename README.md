@@ -2,7 +2,9 @@ Movie Profit Trend Visualization and Predictor
 
 
 Authors : Abikamet Anbunathan, Hyerin Seok, Scott Scheraga
+
 CSCI 5622 - Spring 2020, Professor Quigley
+
 
 Problem Space
 
