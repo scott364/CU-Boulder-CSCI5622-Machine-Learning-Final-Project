@@ -1,4 +1,4 @@
-#Movie Profit Trend Visualization and Predictor
+**Movie Profit Trend Visualization and Predictor
 
 
 Authors : Abikamet Anbunathan, Hyerin Seok, Scott Scheraga
@@ -6,7 +6,7 @@ Authors : Abikamet Anbunathan, Hyerin Seok, Scott Scheraga
 CSCI 5622 - Spring 2020, Professor Quigley
 
 
-**Problem Space**
+_Problem Space_
 
 The film industry involves costly and risky investments and movie studios want to maximize profit and reduce risk especially for large-budget productions. We believe that this risk can be reduced through the use of unsupervised machine learning techniques to cluster together movie genres of movies made in the last 20 years, note the profit the movies of that genre over time, through the use of genre and descriptive terms, forecast the profit of a future movies 
 This could potentially reduce the need for production studio’s resources to be allocated to research tasks.Manually labeling broad film categories would be time consuming for studios, and unsupervised clustering methods may be able to determine categories that a human categorizer would not notice.
