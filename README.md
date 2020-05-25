@@ -1,4 +1,4 @@
-**Movie Profit Trend Visualization and Predictor
+**Movie Profit Trend Visualization and Predictor**
 
 
 Authors : Abikamet Anbunathan, Hyerin Seok, Scott Scheraga
